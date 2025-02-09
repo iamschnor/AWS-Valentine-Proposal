@@ -19,9 +19,11 @@ This is a fun, interactive Valentine's Day proposal webpage hosted on AWS S3, wi
 3. Click "Yes" or try to click "No" (it moves away 😉).
 
 ## 📷 Preview
+
+![image](https://github.com/user-attachments/assets/4be556cb-6b0b-40bc-9999-fc43e5310c7a)
+
 ![image](https://github.com/user-attachments/assets/f430580a-5089-4155-84b6-1f788454c5d3)
 
-![Uploading image.png…]()
 
 ## 💡 Future Enhancements
 - Add AWS Lambda for user response tracking.
